@@ -1,0 +1,19 @@
+{
+  "name": "jasminum",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": "github:rossyman/jasminum",
+  "author": "Ross MacPhee <hello@rossmacphee.com> (https://rossmacphee.com/)",
+  "description": "Decorators and utilities for a more expressive jasmine testing experience",
+  "keywords": ["jasminum", "jasmine", "angular"],
+  "contributors": [
+    "The Jasminum Contributors (https://github.com/rossyman/jasminum/graphs/contributors)"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^9.1.11",
+    "@angular/core": "^9.1.11"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
