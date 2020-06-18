@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "jasminum-workspace",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "author": "Ross MacPhee <hello@rossmacphee.com> (https://rossmacphee.com/)",
   "contributors": [
@@ -12,6 +12,7 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
+    "test:ci": "ng test -c=ci",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },

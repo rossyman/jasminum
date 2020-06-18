@@ -1,7 +1,7 @@
 {
   "name": "jasminum",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": "github:rossyman/jasminum",
   "author": "Ross MacPhee <hello@rossmacphee.com> (https://rossmacphee.com/)",
   "description": "Decorators and utilities for a more expressive jasmine testing experience",

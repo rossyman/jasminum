@@ -27,6 +27,12 @@
             "main": "projects/jasminum/src/test.ts",
             "tsConfig": "projects/jasminum/tsconfig.spec.json",
             "karmaConfig": "projects/jasminum/karma.conf.js"
+          },
+          "configurations": {
+            "ci": {
+              "watch": false,
+              "karmaConfig": "projects/jasminum/karma.headless.conf.js"
+            }
           }
         },
         "lint": {
